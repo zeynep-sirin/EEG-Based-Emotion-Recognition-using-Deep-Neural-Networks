@@ -2,7 +2,7 @@
 Decoding Emotional Valence through Computational Neuroscience
 
 # Project Overview
-This study implements a robust machine learning pipeline for the automated classification of emotional states (Negative, Neutral, Positive) using EEG (Electroencephalogram) signal data. The project bridges the gap between raw neurophysiological data and computational modeling, achieving high-fidelity classification of neural signals.
+This study implements a machine learning pipeline for the automated classification of emotional states (Negative, Neutral, Positive) using EEG (Electroencephalogram) signal data. The project bridges the gap between raw neurophysiological data and computational modeling, achieving high-fidelity classification of neural signals.
 
 The primary objective is to demonstrate the efficacy of Deep Learning (Sequential MLP) in identifying acute emotional markers, providing a scalable framework for research in emotional regulation and stress response.
 
@@ -44,6 +44,6 @@ Key Libraries: Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
 Architecture: Multi-Layer Perceptron (MLP) with Batch Normalization and Dropout layers for optimized regularization.
 
 # Conclusion and Future Work
-This project validates the use of deep learning for real-time neuro-classification. Future iterations could integrate these models into longitudinal studies, such as the Police-In-Action (PIA) research, to predict behavioral outcomes like "freezing" or "avoidance" under acute stress.
+This project validates the use of deep learning for real-time neuro-classification. Future iterations could integrate these models into longitudinal studies, to predict behavioral outcomes like "freezing" or "avoidance" under acute stress.
 
 Zeynep Şirin 
